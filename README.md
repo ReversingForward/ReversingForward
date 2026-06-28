@@ -1,7 +1,9 @@
 # 🏛️ Matthew S. Costilla (ReversingForward)
-**Former DoD Civilian (GS-11) | Veteran U.S. Army | CHFI Certified Cyber Specialist**
+**Former DoD Civilian (GS-11) CAD Tech| Veteran U.S. Army | CHFI Certified Cyber Specialist**
 
-Disciplined, polymath-driven, and mission-focused researcher developing interdisciplinary defensive architectures. My work combines **digital forensics, threat intelligence, and adversary behavioral analysis (cyberpsychology)** to evaluate, dismantle, and counter advanced, large-scale cyber operations.
+Disciplined, polymath-driven, and mission-focused researcher developing interdisciplinary defensive architectures. 
+My work combines **Structural component design, building design, musician, composer and my favorites:
+digital forensics, threat intelligence, and adversary behavioral analysis (cyberpsychology)** to evaluate, dismantle, and counter advanced, large-scale cyber operations.
 
 ---
 
