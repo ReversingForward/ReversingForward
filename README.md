@@ -16,7 +16,7 @@ digital forensics, threat intelligence, and adversary behavioral analysis (cyber
 
 ---
 
-### 🎚️ Core Competencies & Tactical Domains
+### 🎚️ Core Competencies & Tactical Domains & Passions
 
 ```text
 ├── 🕵️ DIGITAL FORENSICS & DEEP REVERSING
@@ -29,7 +29,7 @@ digital forensics, threat intelligence, and adversary behavioral analysis (cyber
 │   ├── Vulnerability Matrix Assessment & Mobile/IoT Security
 │   └── Specialized Fields: Vehicle Hacking & Custom Defensive Frameworks
 │
-└── 🧠 THREAT INTELLIGENCE & INTERDISCIPLINARY ANALYSIS
+└── 🧠 TRAINING AND DEVELOPING IN HUMAN & CYBER THREAT INTELLIGENCE & INTERDISCIPLINARY ANALYSIS
     ├── MITRE ATT&CK for Cyber Threat Intelligence (CTI)
     ├── Adversary Behavior Mapping & Social Psychology Intersects
     └── AI Workflow Optimization: OpenAI Agent Systems & Oracle AI Architecture
