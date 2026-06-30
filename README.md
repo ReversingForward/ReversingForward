@@ -41,8 +41,8 @@ digital forensics, threat intelligence, and adversary behavioral analysis (cyber
 
 * **Credentials:** Computer Hacking Forensic Investigator (CHFI) | CompTIA Security+ | Certified Cybersecurity Technician (CCT) | CSI Linux Certified Investigator (CSIL-CI)
 * **Education:** 
-  * Bachelor of Applied Technology - Cybersecurity | *Graduating 2027 (4.0 GPA, NSLS Honors)*
-  * A.A.S. Information Technology - Cybersecurity | St. Philip's College *(DoD/NSA CAE Designated Institution)*
+  * Bachelor of Applied Technology - Cybersecurity | *Graduating 2027*
+  * A.A.S. Information Technology - Cybersecurity | St. Philip's College  (NSLS Honors) *(DoD/NSA CAE Designated Institution)*
 * **Languages:** Functional Security/Intelligence Training in Arabic & Hebrew *(DLIFLC)*
 
 ---
